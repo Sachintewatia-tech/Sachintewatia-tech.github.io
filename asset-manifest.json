@@ -1,17 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b954565.css",
-    "main.js": "/static/js/main.f973b9fd.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "main.css": "/static/css/main.b8c9b550.css",
+    "main.js": "/static/js/main.97dffcad.js",
+    "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
+    "static/media/jefit4.png": "/static/media/jefit4.7a0c3eb24e5c78c13791.png",
+    "static/media/unsplash3.png": "/static/media/unsplash3.3d4e35b03025df1209d8.png",
+    "static/media/unsplash2.png": "/static/media/unsplash2.6037577dab4a261ef44f.png",
+    "static/media/unsplash1.png": "/static/media/unsplash1.097d9a1eb1d03b50af43.png",
+    "static/media/jefit2.png": "/static/media/jefit2.d7e97c3a3cb6d33516b2.png",
+    "static/media/pharm1.png": "/static/media/pharm1.432d60b24be14be3894c.png",
+    "static/media/jefit3.png": "/static/media/jefit3.554d29cf9855e68b23ab.png",
+    "static/media/milaap3.png": "/static/media/milaap3.ad1b4d6c520cc3a670d3.png",
+    "static/media/jefit5.png": "/static/media/jefit5.daf86db7798b356fa99e.png",
+    "static/media/milaap1.png": "/static/media/milaap1.6e4c4a6e61e103160e39.png",
+    "static/media/jefit1.png": "/static/media/jefit1.5b5cbe64ad18747e8483.png",
     "static/media/Sachin_Tewatia_Resume.pdf": "/static/media/Sachin_Tewatia_Resume.aee93fd2eb9de8d2faef.pdf",
+    "static/media/milaap4.png": "/static/media/milaap4.7426a637fb74e23215e1.png",
+    "static/media/milaap2.png": "/static/media/milaap2.e3dd6b73d66de32d1e9c.png",
+    "static/media/sachin_photo1.png": "/static/media/sachin_photo1.4548358cfb5478a597a2.png",
+    "static/media/pharm2.png": "/static/media/pharm2.312310c24b3a041c8f50.png",
+    "static/media/pharm3.png": "/static/media/pharm3.9da2bdb597c0d6394c9e.png",
+    "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
+    "static/media/reducs.jpg": "/static/media/reducs.393c075e2970664559aa.jpg",
+    "static/media/dsa.jpg": "/static/media/dsa.5275c4a09c53acc8fa8b.jpg",
+    "static/media/javascript.jpg": "/static/media/javascript.2a1410b38a792b28dbc2.jpg",
+    "static/media/rect.png": "/static/media/rect.283bf42c605cfc49cf49.png",
+    "static/media/mongodb.png": "/static/media/mongodb.ac47c497a10891dc7bed.png",
+    "static/media/git.jpg": "/static/media/git.abbe0463d41f97043f3d.jpg",
+    "static/media/html.jpg": "/static/media/html.5aeb7784a4f555fd7741.jpg",
+    "static/media/express.png": "/static/media/express.b7fe95f853468524d392.png",
+    "static/media/chak.jpg": "/static/media/chak.22937fcd5af2100437bd.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.4b954565.css.map": "/static/css/main.4b954565.css.map",
-    "main.f973b9fd.js.map": "/static/js/main.f973b9fd.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.b8c9b550.css.map": "/static/css/main.b8c9b550.css.map",
+    "main.97dffcad.js.map": "/static/js/main.97dffcad.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b954565.css",
-    "static/js/main.f973b9fd.js"
+    "static/css/main.b8c9b550.css",
+    "static/js/main.97dffcad.js"
   ]
 }
