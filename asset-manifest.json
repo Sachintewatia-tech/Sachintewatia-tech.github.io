@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8c9b550.css",
-    "main.js": "/static/js/main.89cc32a1.js",
+    "main.css": "/static/css/main.b7002e97.css",
+    "main.js": "/static/js/main.3f29ed40.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
     "static/media/jefit4.png": "/static/media/jefit4.7a0c3eb24e5c78c13791.png",
     "static/media/jefit2.png": "/static/media/jefit2.d7e97c3a3cb6d33516b2.png",
@@ -16,7 +16,7 @@
     "static/media/jefit1.png": "/static/media/jefit1.5b5cbe64ad18747e8483.png",
     "static/media/stein3.png": "/static/media/stein3.de5497987c87135691c8.png",
     "static/media/airtable2.png": "/static/media/airtable2.8c2d37b0435aba39e042.png",
-    "static/media/Sachin_Tewatia_Resume.pdf": "/static/media/Sachin_Tewatia_Resume.aee93fd2eb9de8d2faef.pdf",
+    "static/media/Sachin_Tewatia_Resume.pdf": "/static/media/Sachin_Tewatia_Resume.804a906ceb059f0ed4d8.pdf",
     "static/media/milaap4.png": "/static/media/milaap4.7426a637fb74e23215e1.png",
     "static/media/milaap2.png": "/static/media/milaap2.e3dd6b73d66de32d1e9c.png",
     "static/media/airtable4.png": "/static/media/airtable4.826eb5c9753b16d54e95.png",
@@ -34,11 +34,11 @@
     "static/media/chak.jpg": "/static/media/chak.22937fcd5af2100437bd.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.b8c9b550.css.map": "/static/css/main.b8c9b550.css.map",
-    "main.89cc32a1.js.map": "/static/js/main.89cc32a1.js.map"
+    "main.b7002e97.css.map": "/static/css/main.b7002e97.css.map",
+    "main.3f29ed40.js.map": "/static/js/main.3f29ed40.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8c9b550.css",
-    "static/js/main.89cc32a1.js"
+    "static/css/main.b7002e97.css",
+    "static/js/main.3f29ed40.js"
   ]
 }
