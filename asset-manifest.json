@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b7002e97.css",
-    "main.js": "/static/js/main.9925896e.js",
+    "main.js": "/static/js/main.e953610b.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
-    "static/media/jefit4.png": "/static/media/jefit4.7a0c3eb24e5c78c13791.png",
-    "static/media/jefit2.png": "/static/media/jefit2.d7e97c3a3cb6d33516b2.png",
+    "static/media/fashion1.png": "/static/media/fashion1.2b30d04a3d635508ddc9.png",
     "static/media/airtable1.png": "/static/media/airtable1.63c6f05e77e1ea02bd7e.png",
-    "static/media/jefit3.png": "/static/media/jefit3.554d29cf9855e68b23ab.png",
     "static/media/stein1.png": "/static/media/stein1.db609250ebb8d73218b1.png",
+    "static/media/fashion5.png": "/static/media/fashion5.807955282bf5220ed34a.png",
     "static/media/airtable3.png": "/static/media/airtable3.edfb6ff79554a82fefc9.png",
     "static/media/milaap3.png": "/static/media/milaap3.ad1b4d6c520cc3a670d3.png",
-    "static/media/jefit5.png": "/static/media/jefit5.daf86db7798b356fa99e.png",
+    "static/media/fashion2.png": "/static/media/fashion2.aac1f3f0e773b989ea95.png",
     "static/media/milaap1.png": "/static/media/milaap1.6e4c4a6e61e103160e39.png",
     "static/media/stein2.png": "/static/media/stein2.b9ca97533c6c488e4ef7.png",
-    "static/media/jefit1.png": "/static/media/jefit1.5b5cbe64ad18747e8483.png",
     "static/media/stein3.png": "/static/media/stein3.de5497987c87135691c8.png",
     "static/media/airtable2.png": "/static/media/airtable2.8c2d37b0435aba39e042.png",
     "static/media/Sachin_Tewatia_Resume.pdf": "/static/media/Sachin_Tewatia_Resume.804a906ceb059f0ed4d8.pdf",
@@ -22,6 +20,8 @@
     "static/media/airtable4.png": "/static/media/airtable4.826eb5c9753b16d54e95.png",
     "static/media/stein4.png": "/static/media/stein4.94506b7046489d090981.png",
     "static/media/sachin_photo1.png": "/static/media/sachin_photo1.4548358cfb5478a597a2.png",
+    "static/media/fashion3.png": "/static/media/fashion3.400b236b1d9502152227.png",
+    "static/media/fashion4.png": "/static/media/fashion4.24a659f152406c641ee0.png",
     "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
     "static/media/reducs.jpg": "/static/media/reducs.393c075e2970664559aa.jpg",
     "static/media/dsa.jpg": "/static/media/dsa.5275c4a09c53acc8fa8b.jpg",
@@ -35,10 +35,10 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.b7002e97.css.map": "/static/css/main.b7002e97.css.map",
-    "main.9925896e.js.map": "/static/js/main.9925896e.js.map"
+    "main.e953610b.js.map": "/static/js/main.e953610b.js.map"
   },
   "entrypoints": [
     "static/css/main.b7002e97.css",
-    "static/js/main.9925896e.js"
+    "static/js/main.e953610b.js"
   ]
 }
